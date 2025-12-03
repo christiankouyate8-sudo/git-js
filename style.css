@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(175, 115, 25);
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+header{
+    background-color: gray;
+    padding: 4px;
+    border-radius: 10px;
+    
+}
+button{
+    width: 100px;
+    height: 30px;
+    font-size: 20PX;
+    padding: 2px;
+    background-color: rgb(54, 40, 40);
+    color: aliceblue;
+    border-radius: 7px;
+    
+}
